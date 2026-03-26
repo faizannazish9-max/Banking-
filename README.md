@@ -1,4 +1,4 @@
-# Banking-sql-analysis
+# Banking
 
 
 Intermediate-level SQL project on a retail banking dataset.
